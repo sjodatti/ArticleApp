@@ -1,0 +1,16 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "title": "article1",
+            "date": "11/11/2017",
+            "content": "Performance cookies gather anonymous information about the pages visited by users. They are used to track the pages most frequently sought and are useful for improving links between pages and determining the reason for possible error messages. Functionality cookies also save the choices made by users in order to improve navigation and your online experience. These cookies are used, for example, to allow you to save a cruise in your list of &quot;favourites&quot;. If you remove these cookies, which do not gather any sensitive user data, you will lose some of the functionalities of the website, which will therefore perform less"
+        },
+        {
+            "id": "2",
+            "title": "article2",
+            "date": "12/11/2017",
+            "content": "Costa also uses third-party cookies, installed by Google Analytics for example, to process statistical analyses of the user's browsing habits, on the number of pages visited or the number of clicks the user makes on a page when browsing. Costa processes the results of these analyses for statistical purposes on website user behaviour, in order to improve and fine-tune website content. If you would like further information about third-party cookies, and for information about how to manage or refuse them, click on the links in the table"
+        }
+    ]
+}
